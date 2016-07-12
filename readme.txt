@@ -12,4 +12,4 @@ git reset --hard HEAD^
 git reset --hard HEAD~100
 git reset --hard commit_id
 git reflog # view all histroy version
-git checkout -- readme.txt
+git checkout -- readme.txt # drop directory changes
