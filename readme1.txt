@@ -1,4 +1,2 @@
-git is a distributed free software.
-git is a version control system.
-git has a mutable index called stage
-git tracks  changes.
+VimCrypt~01!ëÓ‚Ô“'	<†˙<´ÿ0nA±¸æıc◊+ﬂAUp ∫"«fÃÒßÉ
+\òˆ}Aîâﬂ]å™s‚ƒ≤õ˝ü‡*–Ú7W3¿9OpïƒI3‘À@0æ,¥Õ◊∞Ì˝÷¥¸£èÈˇ¿ál+·ZñÜö≥g∏„ﬁBhó+íÅ≈VÚÂbvÓ§\ò$rYàÌBqµ∞7ì]±çE[E~¨h‡≤6V‘+ˆ
