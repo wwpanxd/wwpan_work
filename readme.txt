@@ -35,6 +35,15 @@ git stash pop  # get working directory from stash
 git stash apply
 git stash drop
 git stash apply stash@{num}
+git pull
+git tag v1.0
+git tag v1.0  commit_id
+git show v1.0
+git tag -a v1.0 -m "version 1.0 released" commit_id
+git tag -d v1.0
+git push origin v1.0
+git push origin --tags
+git push origin:refs/tags/v1.0
 
 
 
