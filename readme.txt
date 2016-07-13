@@ -16,3 +16,4 @@ git checkout -- readme.txt # drop directory changes
 rm test.txt
 git rm test.txt  # delete file  add to stage
 git commit -m "delete test.txt"  # commit remove action to repository
+ssh-keygen -t rsa -C "wwpan.xd@163.com"
