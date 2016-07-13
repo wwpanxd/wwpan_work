@@ -27,3 +27,4 @@ git checkout dev
 git checkout -b dev2
 git branch -d dev
 git checkout master
+git merge --no-ff -m " merge" dev
