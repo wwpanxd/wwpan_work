@@ -17,3 +17,5 @@ rm test.txt
 git rm test.txt  # delete file  add to stage
 git commit -m "delete test.txt"  # commit remove action to repository
 ssh-keygen -t rsa -C "wwpan.xd@163.com"
+git remote add origin https://github.com/wwpanxd/wwpan_work.git
+git push -u origin master
