@@ -1,1 +1,2 @@
 this is a dev branch file
+how to push changes on dev branch
