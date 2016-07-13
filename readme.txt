@@ -19,3 +19,5 @@ git commit -m "delete test.txt"  # commit remove action to repository
 ssh-keygen -t rsa -C "wwpan.xd@163.com"
 git remote add origin https://github.com/wwpanxd/wwpan_work.git
 git push -u origin master
+git push origin master # update to the remote repository
+git clone git@github.com:wwpanxd/hello-world.git # clone to local repository form remote repository
