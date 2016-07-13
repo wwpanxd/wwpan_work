@@ -21,3 +21,9 @@ git remote add origin https://github.com/wwpanxd/wwpan_work.git
 git push -u origin master
 git push origin master # update to the remote repository
 git clone git@github.com:wwpanxd/hello-world.git # clone to local repository form remote repository
+git branch
+git branch dev
+git checkout dev
+git checkout -b dev2
+git branch -d dev
+git checkout master
