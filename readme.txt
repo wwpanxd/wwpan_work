@@ -28,3 +28,13 @@ git checkout -b dev2
 git branch -d dev
 git checkout master
 git merge --no-ff -m " merge" dev
+git stash  # save working directory to stash
+git merge -m " merged bug fix" issue
+git stash list
+git stash pop  # get working directory from stash
+git stash apply
+git stash drop
+git stash apply stash@{num}
+
+
+
